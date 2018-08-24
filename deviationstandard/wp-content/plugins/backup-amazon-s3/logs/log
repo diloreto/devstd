@@ -1,0 +1,301 @@
+Start Backup process...
+----------------------------------------------------
+Connecting to MySQL...
+Optimize Database Tables
+Optimize Database Tables was started
+Optimize Table `devstd_data_partners` was successfully
+Optimize Table `devstd_data_partners_offerings` was successfully
+Optimize Table `devstd_data_partners_to_types` was successfully
+Optimize Table `devstd_data_types` was successfully
+Optimize Table `naics_2017_verticals` was successfully
+Optimize Table `wp_commentmeta` was successfully
+Optimize Table `wp_comments` was successfully
+Optimize Table `wp_datalist` was successfully
+Optimize Table `wp_icl_cms_nav_cache` was successfully
+Optimize Table `wp_icl_content_status` was successfully
+Optimize Table `wp_icl_core_status` was successfully
+Optimize Table `wp_icl_flags` was successfully
+Optimize Table `wp_icl_languages` was successfully
+Optimize Table `wp_icl_languages_translations` was successfully
+Optimize Table `wp_icl_locale_map` was successfully
+Optimize Table `wp_icl_message_status` was successfully
+Optimize Table `wp_icl_mo_files_domains` was successfully
+Optimize Table `wp_icl_node` was successfully
+Optimize Table `wp_icl_reminders` was successfully
+Optimize Table `wp_icl_string_packages` was successfully
+Optimize Table `wp_icl_string_pages` was successfully
+Optimize Table `wp_icl_string_positions` was successfully
+Optimize Table `wp_icl_string_status` was successfully
+Optimize Table `wp_icl_string_translations` was successfully
+Optimize Table `wp_icl_string_urls` was successfully
+Optimize Table `wp_icl_strings` was successfully
+Optimize Table `wp_icl_translate` was successfully
+Optimize Table `wp_icl_translate_job` was successfully
+Optimize Table `wp_icl_translation_batches` was successfully
+Optimize Table `wp_icl_translation_status` was successfully
+Optimize Table `wp_icl_translations` was successfully
+Optimize Table `wp_layerslider` was successfully
+Optimize Table `wp_links` was successfully
+Optimize Table `wp_options` was successfully
+Optimize Table `wp_postmeta` was successfully
+Optimize Table `wp_posts` was successfully
+Optimize Table `wp_revslider_backup_slides` was successfully
+Optimize Table `wp_revslider_css` was successfully
+Optimize Table `wp_revslider_layer_animations` was successfully
+Optimize Table `wp_revslider_navigations` was successfully
+Optimize Table `wp_revslider_sliders` was successfully
+Optimize Table `wp_revslider_slides` was successfully
+Optimize Table `wp_revslider_static_slides` was successfully
+Optimize Table `wp_term_relationships` was successfully
+Optimize Table `wp_term_taxonomy` was successfully
+Optimize Table `wp_termmeta` was successfully
+Optimize Table `wp_terms` was successfully
+Optimize Table `wp_usermeta` was successfully
+Optimize Table `wp_users` was successfully
+Optimize Table `wp_wfBadLeechers` was successfully
+Optimize Table `wp_wfBlockedCommentLog` was successfully
+Optimize Table `wp_wfBlockedIPLog` was successfully
+Optimize Table `wp_wfBlocks` was successfully
+Optimize Table `wp_wfBlocksAdv` was successfully
+Optimize Table `wp_wfConfig` was successfully
+Optimize Table `wp_wfCrawlers` was successfully
+Optimize Table `wp_wfFileMods` was successfully
+Optimize Table `wp_wfHits` was successfully
+Optimize Table `wp_wfHoover` was successfully
+Optimize Table `wp_wfIssues` was successfully
+Optimize Table `wp_wfKnownFileList` was successfully
+Optimize Table `wp_wfLeechers` was successfully
+Optimize Table `wp_wfLockedOut` was successfully
+Optimize Table `wp_wfLocs` was successfully
+Optimize Table `wp_wfLogins` was successfully
+Optimize Table `wp_wfNet404s` was successfully
+Optimize Table `wp_wfNotifications` was successfully
+Optimize Table `wp_wfPendingIssues` was successfully
+Optimize Table `wp_wfReverseCache` was successfully
+Optimize Table `wp_wfSNIPCache` was successfully
+Optimize Table `wp_wfScanners` was successfully
+Optimize Table `wp_wfStatus` was successfully
+Optimize Table `wp_wfThrottleLog` was successfully
+Optimize Table `wp_wfVulnScanners` was successfully
+Optimize Table `wp_yoast_seo_links` was successfully
+Optimize Table `wp_yoast_seo_meta` was successfully
+Optimize Database Tables was Finished
+MySQL of Dump was started
+Add a table "devstd_data_partners" in the database dump
+Add a table "devstd_data_partners_offerings" in the database dump
+Add a table "devstd_data_partners_to_types" in the database dump
+Add a table "devstd_data_types" in the database dump
+Add a table "naics_2017_verticals" in the database dump
+Add a table "wp_commentmeta" in the database dump
+Add a table "wp_comments" in the database dump
+Add a table "wp_datalist" in the database dump
+Add a table "wp_icl_cms_nav_cache" in the database dump
+Add a table "wp_icl_content_status" in the database dump
+Add a table "wp_icl_core_status" in the database dump
+Add a table "wp_icl_flags" in the database dump
+Add a table "wp_icl_languages" in the database dump
+Add a table "wp_icl_languages_translations" in the database dump
+Add a table "wp_icl_locale_map" in the database dump
+Add a table "wp_icl_message_status" in the database dump
+Add a table "wp_icl_mo_files_domains" in the database dump
+Add a table "wp_icl_node" in the database dump
+Add a table "wp_icl_reminders" in the database dump
+Add a table "wp_icl_string_packages" in the database dump
+Add a table "wp_icl_string_pages" in the database dump
+Add a table "wp_icl_string_positions" in the database dump
+Add a table "wp_icl_string_status" in the database dump
+Add a table "wp_icl_string_translations" in the database dump
+Add a table "wp_icl_string_urls" in the database dump
+Add a table "wp_icl_strings" in the database dump
+Add a table "wp_icl_translate" in the database dump
+Add a table "wp_icl_translate_job" in the database dump
+Add a table "wp_icl_translation_batches" in the database dump
+Add a table "wp_icl_translation_status" in the database dump
+Add a table "wp_icl_translations" in the database dump
+Add a table "wp_layerslider" in the database dump
+Add a table "wp_links" in the database dump
+Add a table "wp_options" in the database dump
+Add a table "wp_postmeta" in the database dump
+Add a table "wp_posts" in the database dump
+Add a table "wp_revslider_backup_slides" in the database dump
+Add a table "wp_revslider_css" in the database dump
+Add a table "wp_revslider_layer_animations" in the database dump
+Add a table "wp_revslider_navigations" in the database dump
+Add a table "wp_revslider_sliders" in the database dump
+Add a table "wp_revslider_slides" in the database dump
+Add a table "wp_revslider_static_slides" in the database dump
+Add a table "wp_term_relationships" in the database dump
+Add a table "wp_term_taxonomy" in the database dump
+Add a table "wp_termmeta" in the database dump
+Add a table "wp_terms" in the database dump
+Add a table "wp_usermeta" in the database dump
+Add a table "wp_users" in the database dump
+Add a table "wp_wfBadLeechers" in the database dump
+Add a table "wp_wfBlockedCommentLog" in the database dump
+Add a table "wp_wfBlockedIPLog" in the database dump
+Add a table "wp_wfBlocks" in the database dump
+Add a table "wp_wfBlocksAdv" in the database dump
+Add a table "wp_wfConfig" in the database dump
+Add a table "wp_wfCrawlers" in the database dump
+Add a table "wp_wfFileMods" in the database dump
+Add a table "wp_wfHits" in the database dump
+Add a table "wp_wfHoover" in the database dump
+Add a table "wp_wfIssues" in the database dump
+Add a table "wp_wfKnownFileList" in the database dump
+Add a table "wp_wfLeechers" in the database dump
+Add a table "wp_wfLockedOut" in the database dump
+Add a table "wp_wfLocs" in the database dump
+Add a table "wp_wfLogins" in the database dump
+Add a table "wp_wfNet404s" in the database dump
+Add a table "wp_wfNotifications" in the database dump
+Add a table "wp_wfPendingIssues" in the database dump
+Add a table "wp_wfReverseCache" in the database dump
+Add a table "wp_wfSNIPCache" in the database dump
+Add a table "wp_wfScanners" in the database dump
+Add a table "wp_wfStatus" in the database dump
+Add a table "wp_wfThrottleLog" in the database dump
+Add a table "wp_wfVulnScanners" in the database dump
+Add a table "wp_yoast_seo_links" in the database dump
+Add a table "wp_yoast_seo_meta" in the database dump
+MySQL of Dump was finished
+Database Dump was successfully created( 32.84 Mb):wp-content/as3b_backups/www_deviationstandard_com-full-2018_02_04_06_31/mysqldump.sql
+Add files to Backup
+Create part www_deviationstandard_com-full-2018_02_04_06_31-1.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-2.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-3.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-4.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-5.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-6.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-7.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-8.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-9.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-10.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-11.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-12.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-13.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-14.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-15.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-16.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-17.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-18.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-19.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-20.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-21.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-22.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-23.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-24.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-25.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-26.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-27.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-28.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-29.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-30.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-31.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-32.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-33.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-34.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-35.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-36.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-37.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-38.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-39.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-40.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-41.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-42.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-43.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-44.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-45.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-46.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-47.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-48.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-49.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-50.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-51.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-52.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-53.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-54.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-55.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-56.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-57.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-58.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-59.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-60.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-61.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-62.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-63.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-64.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-65.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-66.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-67.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-68.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-69.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-70.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-71.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-72.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-73.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-74.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-75.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-76.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-77.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-78.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-79.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-80.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-81.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-82.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-83.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-84.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-85.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-86.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-87.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-88.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-89.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-90.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-91.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-92.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-93.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-94.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-95.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-96.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-97.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-98.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-99.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-100.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-101.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-102.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-103.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-104.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-105.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-106.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-107.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-108.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-109.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-110.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-111.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-112.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-113.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-114.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-115.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-116.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-117.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-118.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-119.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-120.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-121.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-122.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-123.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-124.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-125.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-126.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-127.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-128.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-129.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-130.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-131.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-132.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-133.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-134.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-135.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-136.zip
+Create part www_deviationstandard_com-full-2018_02_04_06_31-137.zip
+Remove dump Database with folder
+Backup created is finish ( 248.27 Mb)

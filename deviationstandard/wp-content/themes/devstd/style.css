@@ -1,0 +1,91 @@
+/*
+Theme Name: Deviation Standard
+Theme URI: http://www.deviationstandard.com
+Description: This is the first iteration of the new DeviationStandard.com website. A superflexible and responsive Business Theme by Migliore Technologies based off the highly popular <strong>TheFox</strong> theme. - <br/>Update notifications available on twitter and facebook:<br/> <a href='https://twitter.com/miglioretech'>Follow us on twitter</a><br/> - <a href='https://www.facebook.com/miglioretechnologies'>Join the Facebook Group</a> A theme by <a href="http://www.miglioretechnologies.com?ref=wordpress">Migliore Technologies Inc.</a>.
+Version: 1.03
+Template: thefox
+Text Domain:  thefox-child
+Author: Migliore Technologies Inc.
+Author URI: http://www.miglioretechnologies.com?ref=wordpress
+License: Private - only licensed for Deviation Standard Inc.
+License URI: -
+Last Updated: 6/9/2018
+
+*/
+
+
+/* Let's globally hide the top bar for now */
+#top_bar{
+  display:none;
+}
+
+#breadcrumbs #crumbs a, #breadcrumbs #crumbs span{
+	color:#FFF !important;
+}
+
+.text-shadow{
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.page_title_ctn {
+    background: url(https://images.deviationstandard.com/uploads/2017/01/28161628/datascience-wallpaper.png) top center !important;
+}
+
+.rounded-background-shadow{
+  background: rgba(45, 45, 45, 0.3) none repeat scroll 0 0;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 40px;
+  padding: 10px 20px;
+}
+
+.single-post #posts{
+  padding-top:50px !important;
+}
+
+body.single-post .page_title h1{
+  font-weight:400;
+  margin-bottom:50px;
+  font-size:24px;
+  line-height:34px;
+  color:#2c3e50; 
+}
+
+/* Fix the color in the green header bar across some pages */
+div.page_title_ctn .wrapper h1, div.page_title_ctn .wrapper div#breadcrumbs{
+	color:#FFF;
+}
+
+/* Fix the submit button on the homepage cf */
+body.home #cf-btn-submit{
+	margin-top:15px !important;
+}
+
+/* Move the submit button down a little */
+.form-submit #submit{
+	margin-top:15px;
+}
+
+/* Fix the comments button on posts pages */
+#business_comments #add-comment input#submit, #respond input#submit {
+  margin-top:15px !important;
+}
+
+/* Fix the footer bg color to match the footer content box */
+#footer_bg {
+    background: #1a1c27 !important;
+}
+
+/* Fix the line height in the footer to ensure text does not eat itself */
+#footer .widget h2, #footer .widget_recent_entry h4 a {
+  line-height:24px;
+}
+
+/* Fix the Mailchimp input fields on the homepage */
+body.home .mc_input{
+	border-radius:5px;
+	background:#FFF;
+	color:#000;
+}
